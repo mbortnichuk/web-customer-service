@@ -5,9 +5,9 @@
   <absolute-ordering />
 
   <welcome-file-list>
-<!--    <welcome-file>index.jsp</welcome-file>-->
+    <welcome-file>index.jsp</welcome-file>
 <!--    <welcome-file>index.html</welcome-file>-->
-    <welcome-file>/WEB-INF/view/list-customers.jsp</welcome-file>
+<!--    <welcome-file>/WEB-INF/view/list-customers.jsp</welcome-file>-->
   </welcome-file-list>
 
   <servlet>
