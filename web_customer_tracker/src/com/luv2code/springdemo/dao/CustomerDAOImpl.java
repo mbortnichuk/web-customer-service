@@ -17,9 +17,7 @@ public class CustomerDAOImpl implements CustomerDAO{
     @Autowired
     private SessionFactory sessionFactory;
 
-
     @Override
-    @Transactional
     public List<Customer> getCustomers() {
 
         // get the current hibernate session
